@@ -26,7 +26,7 @@ Summary:	Open-source implementation of the Java Platform, Standard Edition
 Summary(pl.UTF-8):	Wolnoźródłowa implementacja Java 16 SE
 Name:		openjdk16
 Version:	16.0.2
-Release:	1
+Release:	2
 License:	GPL v2
 Group:		Development/Languages/Java
 Source0:	https://github.com/openjdk/jdk16u/archive/jdk-%{version}-ga/%{name}-%{version}.tar.gz
